@@ -21,4 +21,9 @@ public class FuncionarioDAO {
 		return listaFuncionarias;
 	}
 
+	public static FuncionarioDAO getInstance() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
